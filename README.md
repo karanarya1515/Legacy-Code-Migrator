@@ -2,7 +2,7 @@
 
 A Python-based CLI tool that uses the **Mistral large language model** (via [Ollama](https://ollama.com)) to automatically modernize legacy code across multiple programming languages — with clear explanations of the changes.
 
-## ✨ Features
+##  Features
 
 - ✅ Detects programming language from file extension (`.py`, `.cpp`, `.java`, etc.)
 - 🤖 Uses **Mistral** LLM to refactor legacy code and explain improvements
@@ -20,7 +20,7 @@ A Python-based CLI tool that uses the **Mistral large language model** (via [Oll
 └── requirements.txt   # Required Python packages
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Install Dependencies
 
